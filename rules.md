@@ -1,10 +1,17 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of the 100 (spaced out) Days Of Code Challenge
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+2018/08/21
+
+## My Own Rules
+I'm not going to be following the original strictly. I'm gonna do other things, which include:
+- Algorithm practice (starting with leetcode)
+- React tutorial
+
+I'll keep it to that for now. But I will indeed be creating something real. Might not show up in github. Oh well.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
