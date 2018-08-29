@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## I'm not following the original version, just read https://github.com/shuroukami/100-days-of-code/blob/master/rules.md before you yell at me.
+
 ### Day 0: August 20, 2018
 ##### *(Prior to starting all this)*
 
