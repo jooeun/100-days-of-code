@@ -27,3 +27,13 @@
 ...and now that I'm done going down that rabbit hole that is my tool, I learned some more about regex and messing with ID3 tags in .NET. This was more educational than I thought it would be!
 
 **Thoughts**: Hilarious that this has nothing to do with any real learning that I wanted to do, yet this is the one thing that actually follows the #100DaysOfCode definition the closest.
+
+### Day 3 (C2): August 31, 2018
+
+**Today's Progress**: Finished that personal tool of mine. Did a bit of refactoring/clean-up so that I don't let it drop off my mind completely like last time.
+
+### Day 4 (T2): September 1, 2018
+
+**Today's Progress**: Eased into algorithm practice again on leetcode, will dive into the interview question pile after I'm a bit more comfortable with more concepts presented there.
+
+**Thoughts**: Really wanna get back on that react tutorial, too...
