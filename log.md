@@ -37,3 +37,9 @@
 **Today's Progress**: Eased into algorithm practice again on leetcode, will dive into the interview question pile after I'm a bit more comfortable with more concepts presented there.
 
 **Thoughts**: Really wanna get back on that react tutorial, too...
+
+### Day 5 (T3): September 2, 2018
+
+**Today's Progress**: Started 2-D array portion in leetcode. Stopping midway without finishing diagnoal traverse question, too late in the night.
+
+**Thoughts**: At least it's a "medium" question...
