@@ -40,6 +40,12 @@
 
 ### Day 5 (T3): September 2, 2018
 
-**Today's Progress**: Started 2-D array portion in leetcode. Stopping midway without finishing diagnoal traverse question, too late in the night.
+**Today's Progress**: Started 2-D array portion in leetcode. Stopping midway without finishing diagonal traverse question, too late in the night.
 
 **Thoughts**: At least it's a "medium" question...
+
+### Day 6 (T4): September 5, 2018
+
+**Today's Progres**: Quick session to finish up diagonal traverse question. Algorithm was right, performance didn't measure up all that well against the other solutions. Noted some low hanging fruits plus a major optimization I should identified the first time. Oh well, I'll get better.
+
+**Thoughts**: Picked back up after a holiday and a missed day, commitment/consistency is hard.
