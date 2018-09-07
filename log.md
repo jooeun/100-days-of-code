@@ -46,6 +46,12 @@
 
 ### Day 6 (T4): September 5, 2018
 
-**Today's Progres**: Quick session to finish up diagonal traverse question. Algorithm was right, performance didn't measure up all that well against the other solutions. Noted some low hanging fruits plus a major optimization I should identified the first time. Oh well, I'll get better.
+**Today's Progres**: Quick session to finish up diagonal traverse question. Algorithm was right, performance didn't measure up all that well against the other solutions. Noted some low hanging fruits plus a major optimization I should have identified the first time. Oh well, I'll get better.
 
 **Thoughts**: Picked back up after a holiday and a missed day, commitment/consistency is hard.
+
+### Day 7 (T5): September 6, 2018
+
+**Today's Progress**: Went back to see what I can do to improve my algorithm from yesterday, turns out all I needed to do was change one data type that I was using in one of my functions... and I didn't even pick the type myself, I just let my IDE do it! That was a painful lesson in consciously picking my data types... 
+
+**Thoughts**: I wonder whether I should resist or indulge in the temptation of veering off into the data/ML world..
