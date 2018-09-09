@@ -55,3 +55,10 @@
 **Today's Progress**: Went back to see what I can do to improve my algorithm from yesterday, turns out all I needed to do was change one data type that I was using in one of my functions... and I didn't even pick the type myself, I just let my IDE do it! That was a painful lesson in consciously picking my data types... 
 
 **Thoughts**: I wonder whether I should resist or indulge in the temptation of veering off into the data/ML world..
+
+### Day 8 (T6): September 8, 2018
+
+**Today's Progress**: Solved another algorithm challenge. Ran into out of memory exception with first brute-force "algorithm", quickly went to tuple-based solution. Ran into overflow issues because of big counters. First solved with bigger data type (i.e. long), then updated to solve without using longs.
+
+**Thoughts**: That was clooooose, almost failed the challengeeeee.
+
