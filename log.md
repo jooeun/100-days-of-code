@@ -62,3 +62,8 @@
 
 **Thoughts**: That was clooooose, almost failed the challengeeeee.
 
+### Day 9 (T7): September 10, 2018
+
+**Today's Progress**: Having learned from the previous challenge, was able to come up with a memory and runtime efficient algorithm on more or less the first go. Might not have arrived so fast on a whiteboard, though (TDD ftw :p)..
+
+**Thoughts**: Another close call on failing the challenge, but I did a much more meaningful/impactful thing yesterday so I don't feel bad about that. Feels somewhat good that I'm finding the algorithm chellenges fairly easy, but that's probably also due to the nature of the lesson content. Aah, this imposter syndrome is painting a negative light on everything I do.
