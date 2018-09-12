@@ -67,3 +67,9 @@
 **Today's Progress**: Having learned from the previous challenge, was able to come up with a memory and runtime efficient algorithm on more or less the first go. Might not have arrived so fast on a whiteboard, though (TDD ftw :p)..
 
 **Thoughts**: Another close call on failing the challenge, but I did a much more meaningful/impactful thing yesterday so I don't feel bad about that. Feels somewhat good that I'm finding the algorithm chellenges fairly easy, but that's probably also due to the nature of the lesson content. Aah, this imposter syndrome is painting a negative light on everything I do.
+
+### Day 10 (T8): September 11, 2018
+
+**Today's Progress**: Got through a couple of problems fairly easily. First attempt at binary addition got me 16th percentile among the C# submissions. Was able to get up to 100% after getting rid of unnecessary reversing operations and realizing I should use multiple and decreasing indices.
+
+**Thoughts**: Things are starting to come a bit easier, even after an initial fail. Understanding strangers' code is also getting easier, too.
