@@ -73,3 +73,9 @@
 **Today's Progress**: Got through a couple of problems fairly easily. First attempt at binary addition got me 16th percentile among the C# submissions. Was able to get up to 100% after getting rid of unnecessary reversing operations and realizing I should use multiple and decreasing indices.
 
 **Thoughts**: Things are starting to come a bit easier, even after an initial fail. Understanding strangers' code is also getting easier, too.
+
+### Day 11 (T9): September 13, 2018
+
+**Today's Progress**: First shot at implementing "IndexOf", got it right the first time but the performance didn't rank all that high (~77%, but that might also have been due to a bunch of cop-out solutions, too). Got kind of close to a performant solution but couldn't get all the way through. Looked at a fast solution and see the end optimization I should have arrived at.
+
+**Thoughts**: Yet another day after rest day... more like 100DaysOfCodeIn200Days at this rate :p
