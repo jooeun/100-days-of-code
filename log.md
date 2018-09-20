@@ -79,3 +79,22 @@
 **Today's Progress**: First shot at implementing "IndexOf", got it right the first time but the performance didn't rank all that high (~77%, but that might also have been due to a bunch of cop-out solutions, too). Got kind of close to a performant solution but couldn't get all the way through. Looked at a fast solution and see the end optimization I should have arrived at.
 
 **Thoughts**: Yet another day after rest day... more like 100DaysOfCodeIn200Days at this rate :p
+
+### Day 12 (C3): September 16, 2018
+
+**Today's Progress**: Re-started with React tutorial I hadn't touched in a long time. Yeah, yeah, I know it doesn't count technically, but this is my thing. Plus, I'm counting two day's worth of this as one day of code. I also started planning how to use React for next personal project.
+
+### Day 13 (C4): September 18, 2018
+**Today's Progress**: More React tutorials, counting yesterday and today as one day again. I also finally looked into using Typescript with React, saw that I could use all of CSS without the whole webpack ejecting thing, nice! 
+
+**Thoughts**: React+Typescript was much better than a lot of the (earlier, admittedly) blogs out there made it out to be (https://github.com/Microsoft/TypeScript-React-Starter), thanks Microsoft. Being able to use Typescript with React is a two-birds-with-one-stone situation for me, so hopefully that adds to the motivation.
+
+### Day 14 (C5): September 19, 2018
+
+**Today's Progress**: Officially started personal project using React + Typescript. Began creating a simple functional component. Most importantly, made sure to incorporate testing straight away. This means I'll be hitting the following throughout this project: 
+
+- React (for which I'll go back to the tutorial after initial phase of project is done)
+- Typescript (I mean, why not? maybe I'll go back and do vanilla JS at some point?)
+- Jest/Enzyme
+
+**Thoughts**: The above are the bare minimum that I'll force myself to hit. Excited to see what else comes up.
