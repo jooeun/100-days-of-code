@@ -98,3 +98,9 @@
 - Jest/Enzyme
 
 **Thoughts**: The above are the bare minimum that I'll force myself to hit. Excited to see what else comes up.
+
+### Day 15 (C6): September 20, 2018
+
+**Today's Progress**: Added one style and one test to same component from yesterday. Figured out parameterized unit testing without external dependencies in Jest (should have done so myself, really), slowly getting myself acquainted with testing React and using Jest and Enzyme. Will have to dig into Webpack at some point if I want to use CSS modules AND not mess up my project. Also started an internal debate on fetch vs axios in the ajax part of the React tutorial... 😂
+
+**Thoughts**: On the big-picture side, came across a great set of blog posts that talk about all the pieces of a full-blown production environment, how to automate all the way from infrastructure to continuous delivery. Can't wait to sink my teeth into that stuff, too, but for now, focus on React project and algorithm practice? Maybe that should come last at this point...
