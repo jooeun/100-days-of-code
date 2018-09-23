@@ -104,3 +104,9 @@
 **Today's Progress**: Added one style and one test to same component from yesterday. Figured out parameterized unit testing without external dependencies in Jest (should have done so myself, really), slowly getting myself acquainted with testing React and using Jest and Enzyme. Will have to dig into Webpack at some point if I want to use CSS modules AND not mess up my project. Also started an internal debate on fetch vs axios in the ajax part of the React tutorial... 😂
 
 **Thoughts**: On the big-picture side, came across a great set of blog posts that talk about all the pieces of a full-blown production environment, how to automate all the way from infrastructure to continuous delivery. Can't wait to sink my teeth into that stuff, too, but for now, focus on React project and algorithm practice? Maybe that should come last at this point...
+
+### Day 16 (T10 + C7): September 22, 2018
+
+**Today's Progress**: Tutorial: learned basics of making AJAX calls to dynamically feed data to React components through both axios and fetch API. I don't have a usage for my personal project yet, but it will definitely come into play eventually. Personal project: ended up learning more about Typescript than making progress on the project... this came about from noticing that my initial implementation from the previous day was going to fail spectacularly on an extremely simple case. But in reality, I actually did it that way on purpose so I could go through this exercise.
+
+**Thoughts**: Maybe I should actually sit down and design the project a bit more further so I don't get distracted so easily? But that's not really a fair statement, I'm doing this precisely so I can learn these things (no room to do this regularly at work).
