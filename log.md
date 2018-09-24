@@ -110,3 +110,9 @@
 **Today's Progress**: Tutorial: learned basics of making AJAX calls to dynamically feed data to React components through both axios and fetch API. I don't have a usage for my personal project yet, but it will definitely come into play eventually. Personal project: ended up learning more about Typescript than making progress on the project... this came about from noticing that my initial implementation from the previous day was going to fail spectacularly on an extremely simple case. But in reality, I actually did it that way on purpose so I could go through this exercise.
 
 **Thoughts**: Maybe I should actually sit down and design the project a bit more further so I don't get distracted so easily? But that's not really a fair statement, I'm doing this precisely so I can learn these things (no room to do this regularly at work).
+
+### Day 17 (T11 + C8): September 23, 2018
+
+**Today's Progress**: 
+- Tutorial: spent a looong time going through.. not much? small UI tweak and dealing with preventing infinite loop in updating state from response data in componentUpdate(), post-ing request to a URL (which is also a use of a class-based component not as a container). Finally a bit about interceptors for axios. 
+- Personal project: realized the error of my ways with how I thought about (and consequently) named my first component. Started off the containing component as a container, but moved to another component for now. Started writing tests and got lost in the woods. I pushed way too far and now I feel physically sick.
