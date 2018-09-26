@@ -116,3 +116,11 @@
 **Today's Progress**: 
 - Tutorial: spent a looong time going through.. not much? small UI tweak and dealing with preventing infinite loop in updating state from response data in componentUpdate(), post-ing request to a URL (which is also a use of a class-based component not as a container). Finally a bit about interceptors for axios. 
 - Personal project: realized the error of my ways with how I thought about (and consequently) named my first component. Started off the containing component as a container, but moved to another component for now. Started writing tests and got lost in the woods. I pushed way too far and now I feel physically sick.
+
+### Day 18 (T12 + C9): September 25, 2018
+
+**Today's Progress**:
+- Tutorial: Pivoted to learn some sql. Wanted to get to window functions, but it was good to go over the basics. Hopefully I retain at least some of the ideas/patterns for using aggregations, joins, subqueries well...
+- Personal project: Thought I was only going to get through the tutorial portion of the day, so really happy to have spent time on it. Wrapped up the components because I was getting too hung up on the testing (I'll make sure to come back to them, though), then went on to actually teasing out the domain models a bit, tried to make it idiomatic to Typescript, but who knows. Will probably put it up for code review to reddit or something later.
+
+**Thoughts**: I can't tell if this is a good thing that I can't seem to stop once I get going. My sleep and health is not liking me doing this...
