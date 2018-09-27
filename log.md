@@ -124,3 +124,7 @@
 - Personal project: Thought I was only going to get through the tutorial portion of the day, so really happy to have spent time on it. Wrapped up the components because I was getting too hung up on the testing (I'll make sure to come back to them, though), then went on to actually teasing out the domain models a bit, tried to make it idiomatic to Typescript, but who knows. Will probably put it up for code review to reddit or something later.
 
 **Thoughts**: I can't tell if this is a good thing that I can't seem to stop once I get going. My sleep and health is not liking me doing this...
+
+### Day 19 (C10): September 26, 2018
+
+**Today's Progress**: Added a first draft of my domain models in, there's a ton of manual configuration at this point, not sure how I want to solve it going forward. Wrote a couple of tests for the container to get it started, ran into some infurating errors all because I didn't actually learn how to export and import interfaces from files. No more, I have conquered.
