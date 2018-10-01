@@ -128,3 +128,9 @@
 ### Day 19 (C10): September 26, 2018
 
 **Today's Progress**: Added a first draft of my domain models in, there's a ton of manual configuration at this point, not sure how I want to solve it going forward. Wrote a couple of tests for the container to get it started, ran into some infurating errors all because I didn't actually learn how to export and import interfaces from files. No more, I have conquered.
+
+### Day 20 (T13): September 30, 2018
+
+**Today's Progress**: Using axios to store and retrieve data from Firebase. Good practice on React, Firebase is rather delicious.
+
+**Thoughts**: Came back from a health-enforced break. I get too excited when learning, need more self-control.
