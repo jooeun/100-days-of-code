@@ -134,3 +134,9 @@
 **Today's Progress**: Using axios to store and retrieve data from Firebase. Good practice on React, Firebase is rather delicious.
 
 **Thoughts**: Came back from a health-enforced break. I get too excited when learning, need more self-control.
+
+### Day 21 (C11): October 1, 2018
+
+**Today's Progress**: Quick session today, added axios usage to personal project. Preceded by a research session of choosing between Realtime Database and Cloud Firestore (seems to be closer to "normal" NoSQL solutions) for way too long.
+
+**Thoughts**: I suppose Cloud Firestore may be an option eventually, the idea of a hosted database that is also free is kind of growing on me... but alas, might mess me up with testability.
