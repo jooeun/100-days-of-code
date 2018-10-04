@@ -140,3 +140,7 @@
 **Today's Progress**: Quick session today, added axios usage to personal project. Preceded by a research session of choosing between Realtime Database and Cloud Firestore (seems to be closer to "normal" NoSQL solutions) for way too long.
 
 **Thoughts**: I suppose Cloud Firestore may be an option eventually, the idea of a hosted database that is also free is kind of growing on me... but alas, might mess me up with testability.
+
+### Day 22: October 3, 2018
+
+**Today's Progress**: Got hilariously side-tracked, practiced some JS and (bad (i.e. I'm bad at it) game programming with https://warriorjs.com/.
