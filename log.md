@@ -144,3 +144,9 @@
 ### Day 22: October 3, 2018
 
 **Today's Progress**: Got hilariously side-tracked, practiced some JS and (bad (i.e. I'm bad at it) game programming with https://warriorjs.com/.
+
+### Day 23 (C12): October 5, 2018
+
+**Today's Progress**: Switched to pulling data from Firebase to initialize state to app. No longer using App component as container for navigator. Started writing unit tests, some outside forces made me stop midway.
+
+**Thoughts**: Hanging on to this streak by a thread...
