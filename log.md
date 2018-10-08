@@ -150,3 +150,9 @@
 **Today's Progress**: Switched to pulling data from Firebase to initialize state to app. No longer using App component as container for navigator. Started writing unit tests, some outside forces made me stop midway.
 
 **Thoughts**: Hanging on to this streak by a thread...
+
+### Day 24 (T13): October 7, 2018
+
+**Today's Progress**: More unit tests.
+
+**Thoughts**: Still hanging on to this streak by a thread...
