@@ -151,8 +151,14 @@
 
 **Thoughts**: Hanging on to this streak by a thread...
 
-### Day 24 (T13): October 7, 2018
+### Day 24 (C13): October 7, 2018
 
 **Today's Progress**: More unit tests.
 
 **Thoughts**: Still hanging on to this streak by a thread...
+
+### Day 25 (C14): October 9, 2018
+
+**Today's Progress**: More unit tests, trying to figure out mocking out axios correctly in Typescript... why did I add this layer of complexity on myself...
+
+**Thoughts**: SOMEHOW still hanging on to this streak by a thread...
