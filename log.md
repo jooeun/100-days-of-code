@@ -162,3 +162,7 @@
 **Today's Progress**: More unit tests, trying to figure out mocking out axios correctly in Typescript... why did I add this layer of complexity on myself...
 
 **Thoughts**: SOMEHOW still hanging on to this streak by a thread...
+
+### Day 26 (C15): October 11, 2018
+
+**Today's Progress**: Beaten down by mocking Axios after banging my head against the wall. Hopefully StackOverflow comes through >.<
