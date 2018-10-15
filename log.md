@@ -166,3 +166,9 @@
 ### Day 26 (C15): October 11, 2018
 
 **Today's Progress**: Beaten down by mocking Axios after banging my head against the wall. Hopefully StackOverflow comes through >.<
+
+### Days 27-29 (C16-C18): October 12 - 14, 2018
+
+**Progress**: Overcame mocking Axios thanks to Stackoverflow. In the middle of investigating some other weirdness (that doesn't break tests, but I would like to know regardless).
+
+**Thoughts**: Man, am I glad I didn't take the easy way out.
