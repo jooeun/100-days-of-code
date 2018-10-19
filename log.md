@@ -172,3 +172,7 @@
 **Progress**: Overcame mocking Axios thanks to Stackoverflow. In the middle of investigating some other weirdness (that doesn't break tests, but I would like to know regardless).
 
 **Thoughts**: Man, am I glad I didn't take the easy way out.
+
+### Day 30 (C19): October 18, 2018
+
+**Progress**: AT LAST broke through the barrier to have a first, satisfactory set of tests for main component! VS Code debugging has been figured out!
