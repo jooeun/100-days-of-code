@@ -176,3 +176,7 @@
 ### Day 30 (C19): October 18, 2018
 
 **Progress**: AT LAST broke through the barrier to have a first, satisfactory set of tests for main component! VS Code debugging has been figured out!
+
+### Days 31-33 (C20-C22): October 22/24/25, 2018
+
+**Progress**: A lot of reading through various React testing ideas/methods/philosophies... I've decided to stick to what is offered as default for now. Started writing test for user interaction.
